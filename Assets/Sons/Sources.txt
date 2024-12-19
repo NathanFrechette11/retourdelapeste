@@ -1,0 +1,12 @@
+steps : https://opengameart.org/content/foot-walking-step-sounds-on-stone-water-snow-wood-and-dirt
+mouse : https://opengameart.org/content/mouse-imitation
+rat :https://opengameart.org/content/squeaky-rat
+swish : https://opengameart.org/content/swish-bamboo-stick-weapon-swhoshes
+splash : https://opengameart.org/content/water-splashes
+pop : https://opengameart.org/content/3-pop-sounds
+coin : https://opengameart.org/content/coin-sounds-0
+buttons : https://opengameart.org/content/16-button-clicks
+punch : https://opengameart.org/content/punch-sfx
+
+placeholder 1 : https://opengameart.org/content/horror-unsettling-victory-loop
+placeholder 2 : https://opengameart.org/content/horror-music-0

@@ -1,0 +1,18 @@
+Steps : Les pas du personnage et des ennemis
+
+Mouse : Les bruits lorsque l'on pose le fromage
+Rat : Bruit du personnage touché par l'ennemi
+Ces deux sons sont similaires, peut-être à réutiliser ?
+
+Swish : Bruit d'attaque, mais qui ne touche pas nécessairement
+Punch : Attaque qui touche
+
+Splash : Bruits d'eau. Splash 2 est plus violent, donc peut-être l'utiliser si le personnage tombe dans l'eau. Splash 1 peut être utilisé pour les puits contre les ennemis(dépendant de leurs fonctionnement)
+
+Pop : Lorsque le joueur ramasse des bactéries. Je ne sais pas à quel point le son pourrait devenir intense selon le nombre de bactéries ?
+
+Coin : Lorsque le joueur achète quelque chose au marchand
+
+Button : Son de bouton basique lorsque l'on aura un menu
+
+placeholder 1 et 2 : Musiques de fond placeholder le temps de faire une autre musique de fond
